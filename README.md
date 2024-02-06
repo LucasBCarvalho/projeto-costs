@@ -5,6 +5,7 @@ Github do curso_react_yt desenvolvido por @Matheus Battisti - Hora de Codar
 <div>
 <a href="https://github.com/matheusbattisti/curso_react_yt"><img src="https://img.shields.io/badge/Github-64224F?style=for-the-badge&logoColor=white" target="_blank"></a>
 </div>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
